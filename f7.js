@@ -1,1 +1,1 @@
-const f = ((v) => console.log(v))("F0.7.0");
+const f = ((v) => console.log(v))("F0.7.1");
