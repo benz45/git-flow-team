@@ -1,1 +1,1 @@
-const f = ((v) => console.log(v))("F6.1");
+const f = ((v) => console.log(v))("F6.2");
